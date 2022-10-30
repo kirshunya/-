@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\bakun\OneDrive\Рабочий стол\Task 3\Task 3\Source.c(10,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\bakun\OneDrive\Рабочий стол\Task 3\Task 3\Source.c(6,28): warning C4101: counter1: неиспользованная локальная переменная
+  Task 3.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\Task 3\x64\Debug\Task 3.exe

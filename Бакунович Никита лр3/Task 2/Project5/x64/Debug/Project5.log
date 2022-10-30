@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\bakun\OneDrive\Рабочий стол\Task 2\Project5\Source.c(6,20): warning C4101: counter1: неиспользованная локальная переменная
+  Project5.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\Task 2\x64\Debug\Project5.exe
