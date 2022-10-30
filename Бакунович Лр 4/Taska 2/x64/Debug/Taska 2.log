@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\bakun\OneDrive\Рабочий стол\Taska 2\Source.c(129,28): warning C4047: функция: "int (*)[100]" отличается по уровням косвенного обращения от "int"
+C:\Users\bakun\OneDrive\Рабочий стол\Taska 2\Source.c(129,23): warning C4024: input_numb: различные типы для формального и фактического параметров 1
+C:\Users\bakun\OneDrive\Рабочий стол\Taska 2\Source.c(130,21): warning C4047: функция: "int (*)[100]" отличается по уровням косвенного обращения от "int"
+C:\Users\bakun\OneDrive\Рабочий стол\Taska 2\Source.c(130,16): warning C4024: rnd: различные типы для формального и фактического параметров 1
+C:\Users\bakun\OneDrive\Рабочий стол\Taska 2\Source.c(132,24): warning C4047: функция: "int (*)[100]" отличается по уровням косвенного обращения от "int"
+C:\Users\bakun\OneDrive\Рабочий стол\Taska 2\Source.c(132,19): warning C4024: search: различные типы для формального и фактического параметров 1
+  Taska 2.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\Taska 2\x64\Debug\Taska 2.exe

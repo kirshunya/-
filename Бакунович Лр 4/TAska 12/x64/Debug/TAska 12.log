@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\bakun\OneDrive\Рабочий стол\TAska 12\main.c(84,12): warning C4101: min2: неиспользованная локальная переменная
+C:\Users\bakun\OneDrive\Рабочий стол\TAska 12\main.c(84,6): warning C4101: max2: неиспользованная локальная переменная
+  TAska 12.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\TAska 12\x64\Debug\TAska 12.exe
