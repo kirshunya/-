@@ -1,0 +1,7 @@
+﻿  array.c
+C:\Users\bakun\OneDrive\Рабочий стол\Бакунович ЛР 5\Task 1\Project5\array.c(14,13): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Source.c
+C:\Users\bakun\OneDrive\Рабочий стол\Бакунович ЛР 5\Task 1\Project5\Source.c(9,7): warning C4022: free: несоответствие указателя для фактического параметра 1
+C:\Users\bakun\OneDrive\Рабочий стол\Бакунович ЛР 5\Task 1\Project5\Source.c(10,2): warning C4098: main: функция типа "void", возвращающая значение
+  Создание кода...
+  Project5.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\Бакунович ЛР 5\Task 1\x64\Debug\Project5.exe
