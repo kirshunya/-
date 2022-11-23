@@ -1,0 +1,4 @@
+﻿  array.c
+C:\Users\bakun\OneDrive\Рабочий стол\Project4\Project4\array.c(14,13): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\bakun\OneDrive\Рабочий стол\Project4\Project4\array.c(15,12): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Project4.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\Project4\x64\Debug\Project4.exe
