@@ -1,5 +1,0 @@
-﻿  lib.c
-C:\Users\bakun\OneDrive\Рабочий стол\Project1\Project1\lib.c(15,13): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
-  Source.c
-  Создание кода...
-  Project1.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\Project1\x64\Debug\Project1.exe
