@@ -1,0 +1,7 @@
+﻿  Source.c
+  lib.c
+C:\Users\bakun\OneDrive\Рабочий стол\Task 2\Project3\lib.c(17,9): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\bakun\OneDrive\Рабочий стол\Task 2\Project3\lib.c(30,9): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\bakun\OneDrive\Рабочий стол\Task 2\Project3\lib.c(42,10): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  Project3.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\Task 2\x64\Debug\Project3.exe

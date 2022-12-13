@@ -1,0 +1,12 @@
+void input_size_row(int*row);
+void input_size_coll(int* coll);
+int** memory(int row,int coll);
+void input(int row, int coll, int** mas);
+void output_with_sum(int row, int coll, int** mas);
+void sum(int row, int col, int** mas);
+void bubble_sort(int** mas, int size, int row, int col);
+void input_oper(int* size);
+void quick_sort(int** mas, int left, int right, int row);
+void freshka(int** mas, int row);
+void output_without_sum(int row, int col, int** mas);
+void quick_sort(int** mas, int left, int right, int row);

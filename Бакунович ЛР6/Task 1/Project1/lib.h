@@ -1,0 +1,14 @@
+void input_size(int* size);
+int *memory(int size);
+void input_array(int size, int* mas);
+void output_array(int* mas, int size);
+void min_search(int size, int* mas,int*strt,int*end);
+void search(int* mas, int strt, int end, int* temp, int* cnt);
+int* memory2(int size);
+void sort_second(int* temp, int size, int strt, int end, int* mas, int cnt);
+void reverse_sorting(int* temp, int size, int strt, int end, int* mas, int cnt);
+void bubble(int* mas, int size, int strt, int end, int* temp, int cnt);
+void input_oper(int* size);
+void bubble_reverse(int* mas, int size, int strt, int end, int* temp, int cnt);
+void clear(int* temp, int* mas);
+void copy(int* temp2, int* temp, int size);
