@@ -1,0 +1,4 @@
+﻿  lib.c
+C:\Users\bakun\OneDrive\Рабочий стол\7-8\7-8\lib.c(14,10): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\bakun\OneDrive\Рабочий стол\7-8\7-8\lib.c(100,10): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  7-8.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\7-8\x64\Debug\7-8.exe
