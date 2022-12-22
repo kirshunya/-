@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\bakun\OneDrive\Рабочий стол\8.4\8.4\Source.c(13,22): warning C4013: max_length: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\bakun\OneDrive\Рабочий стол\8.4\8.4\Source.c(22,5): warning C4013: quick: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\bakun\OneDrive\Рабочий стол\8.4\8.4\Source.c(86,15): warning C4047: =: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\bakun\OneDrive\Рабочий стол\8.4\8.4\Source.c(84,1): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
+  8.4.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\8.4\x64\Debug\8.4.exe
