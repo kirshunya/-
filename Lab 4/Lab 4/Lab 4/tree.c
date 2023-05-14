@@ -9,7 +9,10 @@
 tree* create(char* w, FILE* file) {
     tree* node = (tree*)malloc(sizeof(tree));
     node->mark = (char*)malloc(strlen(w) * sizeof(char) + 1);
-    strcpy(node->mark, w);
+    if (node->mark != NULL)
+    {
+        strcpy(node->mark, w);
+    }
     int i = 0;
     while (w[i] != '\n' && w[i] != '\0') {
         i++;
