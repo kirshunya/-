@@ -55,7 +55,6 @@ int main()
 	if (read == NULL) {
 		printf("Cant open file!");
 		 free(buffer);
-		 fclose(read);
 		return 0;
 	}
 
