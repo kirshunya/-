@@ -70,6 +70,5 @@ int main()
 	FILE* logfile = fopen("log.txt", "a");
 	fprintf(logfile, "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n");
         free(buffer);
-	fclose(logfile);
 	return 0;
 }
