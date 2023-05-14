@@ -2,7 +2,7 @@
 #define CONST256 256
 #include <stdio.h>
 #include <stdlib.h>
-#include < time.h >
+#include <time.h>
 #include <string.h>
 #include "Source.h"
 #include "tree.h"
@@ -19,25 +19,21 @@ int main()
 	int c = fgetc(read);
 	if (c == EOF) {
 		log_message("Creating new tree");
-
 		printf("Insert first object\n");
 		char object[CONST256];
-		scanf("%s", object);
-		printf("Insert question for this object:  %s \n", object);
+		fgets(object, CONST256, stdin);
+		strtok(object, "\n");
+		printf("Insert question for this object: %s \n", object);
 		char question[CONST256];
-		int c;
-		while ((c = getchar()) != '\n' && c != EOF) {}
 		fgets(question, CONST256, stdin);
 		strtok(question, "\n");
-
 		tree = create(question, read);
 		tree->mark = question;
-
 		tree->right = create(object, read);
-
 		printf("Insert second object\n");
-		scanf("%s", object);
-		tree->left  = create(object, read);
+		fgets(object, CONST256, stdin);
+		strtok(object, "\n");
+		tree->left = create(object, read);
 		
 		log_message("Finished creating new tree");
 	}
