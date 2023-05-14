@@ -1,0 +1,6 @@
+﻿  Source.c
+  main.c
+  tree.c
+C:\Users\bakun\OneDrive\Рабочий стол\Lab 4\Lab 4\tree.c(28,23): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Lab 4.vcxproj -> C:\Users\bakun\OneDrive\Рабочий стол\Lab 4\x64\Debug\Lab 4.exe

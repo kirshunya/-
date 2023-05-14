@@ -1,0 +1,79 @@
+Its a premium class of cars ?
+Are the cars of this company originally from England ?
+This company specializes in the creation of SUVs and crossovers ?
+Range Rover
+^
+^
+Since 1988 , this company has been under the wing of the German concern Volkswagen Aktiengesellschaft ?
+Bentley
+^
+^
+Rolls-Royce
+^
+^
+Does this company have rings in its logo ?
+Audi
+^
+^
+Did this company take part in the development of German heavy tanks?
+Porshe
+^
+^
+This company used to specialize in the production of aircraft engines ?
+BMW
+^
+^
+Has this company previously hired musicians and inspectors to check and make the latest car settings ?
+Lexus
+^
+^
+The history of this company began with negotiations , one of the participants of which was Adolf Hitler ?
+Volkswagen
+^
+^
+Does this company have Italian roots ?
+Is this company the first to come up with a sport utility vehicle ?
+Alfa Romeo
+^
+^
+Maserati
+^
+^
+Mercedes
+^
+^
+Does this company produce some of the fastest cars of the time?
+Does this company have Italian roots ?
+Is there a bull in the logo of this company ?
+Lamborghini
+^
+^
+Ferrari
+^
+^
+This company specializes in the creation of electric vehicles ?
+Tesla
+^
+^
+Does this company have Swedish roots ?
+Koenigsegg
+^
+^
+Bugatti
+^
+^
+This company has created the world 's first all - wheel drive hydrogen production car ?
+Toyota
+^
+^
+This company produces some of the most reliable and bladeless cars ?
+Volvo
+^
+^
+Did this company start its existence in the USSR ?
+Lada
+^
+^
+Mitsubishi
+^
+^

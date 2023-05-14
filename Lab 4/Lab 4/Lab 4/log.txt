@@ -1,0 +1,299 @@
+[Sat May 13 16:38:24 2023] Program started
+[Sat May 13 16:38:24 2023] Loading tree
+[Sat May 13 16:38:24 2023] Finished loading tree from file
+[Sat May 13 16:38:30 2023] Akinator guessed right.
+[Sat May 13 16:38:30 2023] Saving tree to file
+[Sat May 13 16:38:30 2023] Finished saving tree to file
+[Sat May 13 16:38:30 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sat May 13 16:38:37 2023] Program started
+[Sat May 13 16:38:37 2023] Loading tree
+[Sat May 13 16:38:37 2023] Finished loading tree from file
+[Sat May 13 16:40:07 2023] A new object has been added.
+[Sat May 13 16:40:07 2023] Saving tree to file
+[Sat May 13 16:40:07 2023] Finished saving tree to file
+[Sat May 13 16:40:07 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 12:00:36 2023] Program started
+[Sun May 14 12:00:36 2023] Creating new tree
+[Sun May 14 12:00:47 2023] Finished creating new tree
+[Sun May 14 12:01:00 2023] A new object has been added.
+[Sun May 14 12:01:00 2023] Saving tree to file
+[Sun May 14 12:01:00 2023] Finished saving tree to file
+[Sun May 14 12:01:00 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 12:01:10 2023] Program started
+[Sun May 14 12:01:10 2023] Loading tree
+[Sun May 14 12:01:10 2023] Finished loading tree from file
+[Sun May 14 12:01:16 2023] Akinator guessed right.
+[Sun May 14 12:01:16 2023] Saving tree to file
+[Sun May 14 12:01:16 2023] Finished saving tree to file
+[Sun May 14 12:01:16 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 12:01:54 2023] Program started
+[Sun May 14 12:01:54 2023] Loading tree
+[Sun May 14 12:01:54 2023] Finished loading tree from file
+[Sun May 14 12:02:08 2023] A new object has been added.
+[Sun May 14 12:02:08 2023] Saving tree to file
+[Sun May 14 12:02:08 2023] Finished saving tree to file
+[Sun May 14 12:02:08 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 12:05:10 2023] Program started
+[Sun May 14 12:05:10 2023] Loading tree
+[Sun May 14 12:05:10 2023] Finished loading tree from file
+[Sun May 14 12:05:29 2023] Added new question and object to tree
+[Sun May 14 12:05:29 2023] A new object has been added.
+[Sun May 14 12:05:29 2023] Saving tree to file
+[Sun May 14 12:05:29 2023] Finished saving tree to file
+[Sun May 14 12:05:29 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 12:05:39 2023] Program started
+[Sun May 14 12:05:39 2023] Loading tree
+[Sun May 14 12:05:39 2023] Finished loading tree from file
+[Sun May 14 12:05:45 2023] Akinator guessed right.
+[Sun May 14 12:05:45 2023] Saving tree to file
+[Sun May 14 12:05:45 2023] Finished saving tree to file
+[Sun May 14 12:05:45 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 12:07:16 2023] Program started
+[Sun May 14 12:07:16 2023] Loading tree
+[Sun May 14 12:07:16 2023] Finished loading tree from file
+[Sun May 14 12:07:27 2023] Added new question and object to tree
+[Sun May 14 12:07:27 2023] A new object has been added : %s .
+[Sun May 14 12:07:27 2023] Saving tree to file
+[Sun May 14 12:07:27 2023] Finished saving tree to file
+[Sun May 14 12:07:27 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 12:09:53 2023] Program started
+[Sun May 14 12:09:53 2023] Loading tree
+[Sun May 14 12:09:53 2023] Finished loading tree from file
+[Sun May 14 12:10:05 2023] Added new question and object to tree
+[Sun May 14 12:10:05 2023] A new object has been added .
+[Sun May 14 12:10:05 2023]  Object : %s : hoho
+[Sun May 14 12:10:05 2023] Saving tree to file
+[Sun May 14 12:10:05 2023] Finished saving tree to file
+[Sun May 14 12:10:05 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 12:10:43 2023] Program started
+[Sun May 14 12:10:43 2023] Loading tree
+[Sun May 14 12:10:43 2023] Finished loading tree from file
+[Sun May 14 12:10:54 2023] Added new question and object to tree
+[Sun May 14 12:10:54 2023] A new object has been added .
+[Sun May 14 12:10:54 2023] Object  : bomba
+[Sun May 14 12:10:54 2023] Saving tree to file
+[Sun May 14 12:10:54 2023] Finished saving tree to file
+[Sun May 14 12:10:54 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 12:11:19 2023] Program started
+[Sun May 14 12:11:19 2023] Loading tree
+[Sun May 14 12:11:19 2023] Finished loading tree from file
+[Sun May 14 12:11:27 2023] Added new question and object to tree
+[Sun May 14 12:11:27 2023] A new object has been added .
+[Sun May 14 12:11:27 2023] Object : fpfpfpf
+[Sun May 14 12:11:27 2023] Saving tree to file
+[Sun May 14 12:11:27 2023] Finished saving tree to file
+[Sun May 14 12:11:27 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 14:44:39 2023] Program started
+[Sun May 14 14:44:39 2023] Creating new tree
+[Sun May 14 14:48:12 2023] Program started
+[Sun May 14 14:48:12 2023] Creating new tree
+[Sun May 14 14:49:09 2023] Program started
+[Sun May 14 14:49:09 2023] Creating new tree
+[Sun May 14 14:52:24 2023] Finished creating new tree
+[Sun May 14 14:54:10 2023] Added new question and object to tree
+[Sun May 14 14:54:10 2023] A new object has been added .
+[Sun May 14 14:54:10 2023] Object : Rolls-Royce
+[Sun May 14 14:54:10 2023] Saving tree to file
+[Sun May 14 14:54:10 2023] Finished saving tree to file
+[Sun May 14 14:54:10 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 14:54:20 2023] Program started
+[Sun May 14 14:54:20 2023] Loading tree
+[Sun May 14 14:54:20 2023] Finished loading tree from file
+[Sun May 14 14:55:26 2023] Added new question and object to tree
+[Sun May 14 14:55:26 2023] A new object has been added .
+[Sun May 14 14:55:26 2023] Object : Bugatti
+[Sun May 14 14:55:26 2023] Saving tree to file
+[Sun May 14 14:55:26 2023] Finished saving tree to file
+[Sun May 14 14:55:26 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 14:55:31 2023] Program started
+[Sun May 14 14:55:31 2023] Loading tree
+[Sun May 14 14:55:31 2023] Finished loading tree from file
+[Sun May 14 14:56:16 2023] Added new question and object to tree
+[Sun May 14 14:56:16 2023] A new object has been added .
+[Sun May 14 14:56:16 2023] Object : Ferrari
+[Sun May 14 14:56:16 2023] Saving tree to file
+[Sun May 14 14:56:16 2023] Finished saving tree to file
+[Sun May 14 14:56:16 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 14:56:20 2023] Program started
+[Sun May 14 14:56:20 2023] Loading tree
+[Sun May 14 14:56:20 2023] Finished loading tree from file
+[Sun May 14 14:57:38 2023] Added new question and object to tree
+[Sun May 14 14:57:38 2023] A new object has been added .
+[Sun May 14 14:57:38 2023] Object : Lamborghini
+[Sun May 14 14:57:38 2023] Saving tree to file
+[Sun May 14 14:57:38 2023] Finished saving tree to file
+[Sun May 14 14:57:38 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 14:57:42 2023] Program started
+[Sun May 14 14:57:42 2023] Loading tree
+[Sun May 14 14:57:42 2023] Finished loading tree from file
+[Sun May 14 14:57:58 2023] Akinator guessed right.
+[Sun May 14 14:57:58 2023] Saving tree to file
+[Sun May 14 14:57:58 2023] Finished saving tree to file
+[Sun May 14 14:57:58 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 14:58:00 2023] Program started
+[Sun May 14 14:58:00 2023] Loading tree
+[Sun May 14 14:58:00 2023] Finished loading tree from file
+[Sun May 14 14:58:14 2023] Akinator guessed right.
+[Sun May 14 14:58:14 2023] Saving tree to file
+[Sun May 14 14:58:14 2023] Finished saving tree to file
+[Sun May 14 14:58:14 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 14:58:29 2023] Program started
+[Sun May 14 14:58:29 2023] Loading tree
+[Sun May 14 14:58:29 2023] Finished loading tree from file
+[Sun May 14 14:59:20 2023] Added new question and object to tree
+[Sun May 14 14:59:20 2023] A new object has been added .
+[Sun May 14 14:59:20 2023] Object : Range Rover
+[Sun May 14 14:59:20 2023] Saving tree to file
+[Sun May 14 14:59:20 2023] Finished saving tree to file
+[Sun May 14 14:59:20 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 14:59:27 2023] Program started
+[Sun May 14 14:59:27 2023] Loading tree
+[Sun May 14 14:59:27 2023] Finished loading tree from file
+[Sun May 14 15:00:16 2023] Added new question and object to tree
+[Sun May 14 15:00:16 2023] A new object has been added .
+[Sun May 14 15:00:16 2023] Object : Audi
+[Sun May 14 15:00:16 2023] Saving tree to file
+[Sun May 14 15:00:16 2023] Finished saving tree to file
+[Sun May 14 15:00:16 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:00:22 2023] Program started
+[Sun May 14 15:00:22 2023] Loading tree
+[Sun May 14 15:00:22 2023] Finished loading tree from file
+[Sun May 14 15:02:49 2023] Added new question and object to tree
+[Sun May 14 15:02:49 2023] A new object has been added .
+[Sun May 14 15:02:49 2023] Object : Bentley
+[Sun May 14 15:02:49 2023] Saving tree to file
+[Sun May 14 15:02:49 2023] Finished saving tree to file
+[Sun May 14 15:02:49 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:03:11 2023] Program started
+[Sun May 14 15:03:11 2023] Loading tree
+[Sun May 14 15:03:11 2023] Finished loading tree from file
+[Sun May 14 15:05:32 2023] Added new question and object to tree
+[Sun May 14 15:05:32 2023] A new object has been added .
+[Sun May 14 15:05:32 2023] Object : Porshe
+[Sun May 14 15:05:32 2023] Saving tree to file
+[Sun May 14 15:05:32 2023] Finished saving tree to file
+[Sun May 14 15:05:32 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:05:36 2023] Program started
+[Sun May 14 15:05:36 2023] Loading tree
+[Sun May 14 15:05:36 2023] Finished loading tree from file
+[Sun May 14 15:09:09 2023] Added new question and object to tree
+[Sun May 14 15:09:09 2023] A new object has been added .
+[Sun May 14 15:09:09 2023] Object : Toyota
+[Sun May 14 15:09:09 2023] Saving tree to file
+[Sun May 14 15:09:09 2023] Finished saving tree to file
+[Sun May 14 15:09:09 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:09:29 2023] Program started
+[Sun May 14 15:09:29 2023] Loading tree
+[Sun May 14 15:09:29 2023] Finished loading tree from file
+[Sun May 14 15:11:00 2023] Added new question and object to tree
+[Sun May 14 15:11:00 2023] A new object has been added .
+[Sun May 14 15:11:00 2023] Object : BMW
+[Sun May 14 15:11:00 2023] Saving tree to file
+[Sun May 14 15:11:00 2023] Finished saving tree to file
+[Sun May 14 15:11:00 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:11:15 2023] Program started
+[Sun May 14 15:11:15 2023] Loading tree
+[Sun May 14 15:11:15 2023] Finished loading tree from file
+[Sun May 14 15:13:40 2023] Added new question and object to tree
+[Sun May 14 15:13:40 2023] A new object has been added .
+[Sun May 14 15:13:40 2023] Object : Lexus
+[Sun May 14 15:13:40 2023] Saving tree to file
+[Sun May 14 15:13:40 2023] Finished saving tree to file
+[Sun May 14 15:13:40 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:14:39 2023] Program started
+[Sun May 14 15:14:39 2023] Loading tree
+[Sun May 14 15:14:39 2023] Finished loading tree from file
+[Sun May 14 15:15:44 2023] Added new question and object to tree
+[Sun May 14 15:15:44 2023] A new object has been added .
+[Sun May 14 15:15:44 2023] Object : Tesla
+[Sun May 14 15:15:44 2023] Saving tree to file
+[Sun May 14 15:15:44 2023] Finished saving tree to file
+[Sun May 14 15:15:44 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:17:56 2023] Program started
+[Sun May 14 15:17:56 2023] Loading tree
+[Sun May 14 15:17:56 2023] Finished loading tree from file
+[Sun May 14 15:18:38 2023] Added new question and object to tree
+[Sun May 14 15:18:38 2023] A new object has been added .
+[Sun May 14 15:18:38 2023] Object : Volkswagen
+[Sun May 14 15:18:38 2023] Saving tree to file
+[Sun May 14 15:18:38 2023] Finished saving tree to file
+[Sun May 14 15:18:38 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:20:04 2023] Program started
+[Sun May 14 15:20:04 2023] Loading tree
+[Sun May 14 15:20:04 2023] Finished loading tree from file
+[Sun May 14 15:20:59 2023] Added new question and object to tree
+[Sun May 14 15:20:59 2023] A new object has been added .
+[Sun May 14 15:20:59 2023] Object : Volvo
+[Sun May 14 15:20:59 2023] Saving tree to file
+[Sun May 14 15:20:59 2023] Finished saving tree to file
+[Sun May 14 15:20:59 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:22:21 2023] Program started
+[Sun May 14 15:22:21 2023] Loading tree
+[Sun May 14 15:22:21 2023] Finished loading tree from file
+[Sun May 14 15:23:21 2023] Added new question and object to tree
+[Sun May 14 15:23:21 2023] A new object has been added .
+[Sun May 14 15:23:21 2023] Object : Lada
+[Sun May 14 15:23:21 2023] Saving tree to file
+[Sun May 14 15:23:21 2023] Finished saving tree to file
+[Sun May 14 15:23:21 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:24:21 2023] Program started
+[Sun May 14 15:24:21 2023] Loading tree
+[Sun May 14 15:24:21 2023] Finished loading tree from file
+[Sun May 14 15:25:47 2023] Added new question and object to tree
+[Sun May 14 15:25:47 2023] A new object has been added .
+[Sun May 14 15:25:47 2023] Object : Koenigsegg
+[Sun May 14 15:25:47 2023] Saving tree to file
+[Sun May 14 15:25:47 2023] Finished saving tree to file
+[Sun May 14 15:25:47 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:28:01 2023] Program started
+[Sun May 14 15:28:01 2023] Loading tree
+[Sun May 14 15:28:01 2023] Finished loading tree from file
+[Sun May 14 15:28:51 2023] Added new question and object to tree
+[Sun May 14 15:28:51 2023] A new object has been added .
+[Sun May 14 15:28:51 2023] Object : Maserati
+[Sun May 14 15:28:51 2023] Saving tree to file
+[Sun May 14 15:28:51 2023] Finished saving tree to file
+[Sun May 14 15:28:51 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+[Sun May 14 15:29:16 2023] Program started
+[Sun May 14 15:29:16 2023] Loading tree
+[Sun May 14 15:29:16 2023] Finished loading tree from file
+[Sun May 14 15:31:49 2023] Program started
+[Sun May 14 15:31:49 2023] Loading tree
+[Sun May 14 15:31:49 2023] Finished loading tree from file
+[Sun May 14 15:33:47 2023] Added new question and object to tree
+[Sun May 14 15:33:47 2023] A new object has been added .
+[Sun May 14 15:33:47 2023] Object : Alfa Romeo
+[Sun May 14 15:33:47 2023] Saving tree to file
+[Sun May 14 15:33:47 2023] Finished saving tree to file
+[Sun May 14 15:33:47 2023] Program finished
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 

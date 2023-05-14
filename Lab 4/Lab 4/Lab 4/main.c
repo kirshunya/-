@@ -1,0 +1,77 @@
+#define _CRT_SECURE_NO_WARNINGS
+#define CONST256 256
+#include <stdio.h>
+#include <stdlib.h>
+#include < time.h >
+#include <string.h>
+#include <windows.h>
+#include "Source.h"
+#include "tree.h"
+
+
+int main()
+{
+	log_message("Program started");
+	char* buffer = (char*)malloc(128 * sizeof(char));
+
+	tree* tree = NULL;
+
+	FILE* read = fopen("questions.txt", "r");
+	int c = fgetc(read);
+	if (c == EOF) {
+		log_message("Creating new tree");
+
+		printf("Insert first object\n");
+		char object[CONST256];
+		scanf("%s", object);
+		printf("Insert question for this object:  %s \n", object);
+		char question[CONST256];
+		int c;
+		while ((c = getchar()) != '\n' && c != EOF) {}
+		fgets(question, CONST256, stdin);
+		strtok(question, "\n");
+
+		tree = create(question, read);
+		tree->mark = question;
+
+		tree->right = create(object, read);
+
+		printf("Insert second object\n");
+		scanf("%s", object);
+		tree->left  = create(object, read);
+		
+		log_message("Finished creating new tree");
+	}
+	else {
+		log_message("Loading tree");
+		fseek(read, 0, SEEK_SET);
+		
+		tree = create(buffer, read);
+		tree = insert(read);
+		
+		log_message("Finished loading tree from file");
+	}
+
+	
+
+	ask(tree, read);
+
+	read = fopen("questions.txt", "w");
+	if (read == NULL) {
+		printf("Cant open file!");
+		return 0;
+	}
+
+	
+	log_message("Saving tree to file");
+	save_tree(read, tree);
+	fclose(read);
+	log_message("Finished saving tree to file");
+
+	log_message("Program finished");
+
+	FILE* logfile = fopen("log.txt", "a");
+	fprintf(logfile, "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n");
+
+	return 0;
+}
