@@ -1,0 +1,135 @@
+	else
+			 {
+				if(arch == 1 || ftell(out) != 0)
+				{
+					printf("Before  :/\n");
+					fseek(out, 0, SEEK_END);
+					while (fscanf(in, "%s", buffer) != EOF)
+					{
+						printf("Before 2 :/\n");
+						for (node* p = head; p != NULL; p = p->next)
+						{
+							if (strcmp(buffer, p->word) == 0)
+							{
+								printf("First %s ", p->word);
+								p->word_change = fscanf(out, "%s", buffer);
+								printf("Second %s \n", p->word_change);
+							}
+						}
+
+					}
+					fclose(out);
+					out = fopen("out.txt", "w+");
+
+					while (fscanf(copy, "%s", buffer) != EOF)
+					{
+						count1 = 0;
+
+						for (node* p = head; p != NULL; p = p->next)
+						{
+							if (strcmp(p->word_change, "none") != 0 && strcmp(buffer, p->word) == 0 && strcmp(buffer, p->word_change) != 0)
+							{
+
+								fprintf(out, "%s ", p->word_change);
+								count1++;
+								break;
+							}
+
+						}
+						if (count1 == 0)
+						{
+							fprintf(out, "%s ", buffer);
+						}
+					}
+					fseek(copy, 0, SEEK_SET);
+					fseek(in, 0, SEEK_SET);
+					while (fscanf(copy, "%s", buffer) != EOF)
+					{
+						if (count_word == count - 1)
+						{
+							fscanf(in, "%s", buffer1);
+							if (strcmp(buffer, buffer1) != 0)
+							{
+								fprintf(copy_out, "%s", buffer1);
+								break;
+							}
+							else
+							{
+								fprintf(copy_out, "%s", buffer);
+								break;
+							}
+						}
+						else
+						{
+							fscanf(in, "%s", buffer1);
+							if (strcmp(buffer, buffer1) != 0)
+							{
+								fprintf(copy_out, "%s ", buffer1);
+								count_word++;
+							}
+							else
+							{
+								fprintf(copy_out, "%s ", buffer);
+								count_word++;
+							}
+						}
+
+
+					}
+
+					/*fseek(copy, 0, SEEK_SET);
+					fseek(copy_out, 0, SEEK_SET);
+					while (fscanf(copy_out, "%s", buffer) != EOF)
+					{
+						fprintf(copy, "%s ", buffer);
+					}
+
+					fclose(out);
+					out = fopen("out.txt", "w+");*/
+
+					fseek(copy_out, 0, SEEK_SET);
+					
+					int cnt_w = 0;
+					while (fscanf(copy_out, "%s", buffer) != EOF) {
+						fprintf(out, "%s ", buffer);
+						cnt_w++;
+						if (cnt_w == count - 1)
+						{
+							fscanf(copy_out, "%s", buffer);
+							fprintf(out, "%s", buffer);
+							break;
+						}
+					}
+					fclose(copy_out);
+					copy_out = fopen("copy_out.txt", "w+");
+
+
+					fseek(in, 0, SEEK_SET);
+					fseek(copy_out, 0, SEEK_SET);
+					while (fgets(tab, CONST, in) != NULL) {
+						fprintf(copy_out, "%s", tab);
+					}
+					printf("The dearchive file : %d\n", ftell(copy_out));
+					printf("The first file : %d\n", ftell(in));
+
+
+				}
+				}
+
+
+
+FILE* copy;
+			copy = fopen("archive.txt", "r");
+			if (fscanf(copy, "%s", buffer) == EOF) {
+				printf("File is empty\n");
+	
+			}
+			while (fscanf(copy, "%s", buffer) != EOF)
+			{
+				if (strcmp(buffer, "1)") == 0)
+					break;
+			}
+			while (fscanf(copy, "%s", buffer) != EOF)
+			{
+				
+			}
