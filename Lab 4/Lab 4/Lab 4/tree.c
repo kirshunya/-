@@ -14,7 +14,6 @@ tree* create(char* w, FILE* file) {
     while (w[i] != '\n' && w[i] != '\0') {
         i++;
     }
-    //strncpy(node->mark, w, i);
     node->mark[i] = '\0';
 
     node->right = NULL;
@@ -68,11 +67,11 @@ void ask(tree* tree, FILE* file) {
             int c;
             while ((c = getchar()) != '\n' && c != EOF) {}
             fgets(object, CONST256, stdin);
-            strtok(object, "\n");
+            strtok_r(object, "\n");
             printf("What is a question that distinguishes %s from %s?\n", object, tree->mark);
             char question[CONST256];
             fgets(question, CONST256, stdin);
-            strtok(question, "\n");
+            strtok_r(question, "\n");
             add(tree, _strdup(question), _strdup(object), file);
             printf("Thank you! I'll remember that for next time.\n");
             log_message("A new object has been added .");
