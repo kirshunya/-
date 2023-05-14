@@ -68,6 +68,6 @@ int main()
 
 	FILE* logfile = fopen("log.txt", "a");
 	fprintf(logfile, "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n");
-      
+        fclose(logfile);
 	return 0;
 }
