@@ -54,6 +54,8 @@ int main()
 	read = fopen("questions.txt", "w");
 	if (read == NULL) {
 		printf("Cant open file!");
+		 free(buffer);
+		 fclose(read);
 		return 0;
 	}
 
