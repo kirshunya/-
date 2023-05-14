@@ -11,7 +11,7 @@
 int main()
 {
 	log_message("Program started");
-	char* buffer = (char*)malloc(128 * sizeof(char));
+	char* buffer = (char*)malloc(CONST256 * sizeof(char));
 
 	tree* tree = NULL;
 
@@ -67,6 +67,6 @@ int main()
 
 	FILE* logfile = fopen("log.txt", "a");
 	fprintf(logfile, "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n");
-
+        free(buffer);
 	return 0;
 }
