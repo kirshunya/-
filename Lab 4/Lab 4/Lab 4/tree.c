@@ -24,7 +24,7 @@ tree* create(char* w, FILE* file) {
 
 tree* insert(FILE* file)
 {
-    char* buffer = (char*)malloc(128 * sizeof(char));
+    char buffer [CONST256];
     if (fgets(buffer, strlen(buffer), file) == NULL)
         return NULL;
     if (strcmp(buffer, "^\n") == 0)
