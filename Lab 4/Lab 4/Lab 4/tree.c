@@ -75,10 +75,14 @@ void ask(tree* tree, FILE* file) {
             char question[CONST256];
             fgets(question, CONST256, stdin);
             strtok(question, "\n");
-            add(tree, _strdup(question), _strdup(object), file);
+            char q1[CONST256] =  _strdup(question);
+            char obj1[const256] = _strdup(object);
+            add(tree, q1, obj1, file);
             printf("Thank you! I'll remember that for next time.\n");
             log_message("A new object has been added .");
             log_message_object("Object", object);
+            free(q1);
+            free(obj1);
             return;
         }
     }
