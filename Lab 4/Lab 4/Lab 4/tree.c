@@ -17,7 +17,6 @@ tree* create(char* w, FILE* file) {
     while (w[i] != '\n' && w[i] != '\0') {
         i++;
     }
-     node->mark[strlen(node->mark)-1] = '\0';
 
     node->right = NULL;
     node->left = NULL;
