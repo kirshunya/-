@@ -7,15 +7,11 @@
 #include <string.h>
 #include "Source.h"
 #include "tree.h"
-
-
 int main()
 {
 	log_message("Program started");
 	char buffer [CONST256];
-
 	tree* tree = NULL;
-
 	FILE* read = fopen("questions.txt", "r");
 	int c = fgetc(read);
 	if (c == EOF) {
@@ -35,39 +31,31 @@ int main()
 		fgets(object, CONST256, stdin);
 		strtok(object, "\n");
 		tree->left = create(object, read);
-		
 		log_message("Finished creating new tree");
 	}
-	else {
+	else
+	{
 		log_message("Loading tree");
 		fseek(read, 0, SEEK_SET);
-		
 		tree = create(buffer, read);
 		tree = insert(read);
-		
 		log_message("Finished loading tree from file");
 	}
-
-	
-
 	ask(tree, read);
-
 	read = fopen("questions.txt", "w");
-	if (read == NULL) {
+	if (read == NULL) 
+	{
 		printf("Cant open file!");
 		exit(0);
-	}
-
-	
+	}	
 	log_message("Saving tree to file");
 	save_tree(read, tree);
 	fclose(read);
 	log_message("Finished saving tree to file");
-
 	log_message("Program finished");
-
 	FILE* logfile = fopen("log.txt", "a");
 	fprintf(logfile, "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n");
         fclose(logfile);
+	fclose(read);
 	return 0;
 }
