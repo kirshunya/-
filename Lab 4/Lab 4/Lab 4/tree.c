@@ -54,8 +54,9 @@ void ask(tree* tree, FILE* file) {
     if (tree->right == NULL && tree->left == NULL) {
         printf("It can be....  %s\n", tree->mark);
         printf("Am I right?\n");
-        char answer[4];
-        scanf("%s", answer);
+        char answer[CONST256];
+       fgets(answer, CONST256, stdin);
+            strtok(answer, "\n");
 
         if (strcmp(answer, "yes") == 0) {
             printf("I guess!\n");
@@ -86,8 +87,9 @@ void ask(tree* tree, FILE* file) {
     }
    
     printf("%s\n", tree->mark);
-    char answer[4];
-    scanf("%s", answer);
+    char answer[CONST256];
+   fgets(answer, CONST256, stdin);
+            strtok(answer, "\n");
     if (strcmp(answer, "yes") == 0) {
         ask(tree->right, file);
     }
