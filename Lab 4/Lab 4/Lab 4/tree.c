@@ -70,11 +70,11 @@ void ask(tree* tree, FILE* file) {
             int c;
             while ((c = getchar()) != '\n' && c != EOF) {}
             fgets(object, CONST256, stdin);
-            strtok_r(object, "\n", &object);
+            strtok(object, "\n");
             printf("What is a question that distinguishes %s from %s?\n", object, tree->mark);
             char question[CONST256];
             fgets(question, CONST256, stdin);
-            strtok_r(question, "\n", &question);
+            strtok(question, "\n");
             add(tree, _strdup(question), _strdup(object), file);
             printf("Thank you! I'll remember that for next time.\n");
             log_message("A new object has been added .");
