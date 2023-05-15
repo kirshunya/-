@@ -53,9 +53,7 @@ int main()
 	fclose(read);
 	log_message("Finished saving tree to file");
 	log_message("Program finished");
-	FILE* logfile = fopen("log.txt", "a");
-	fprintf(logfile, "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n");
-        fclose(logfile);
+	log_message("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n");
 	fclose(read);
 	return 0;
 }
