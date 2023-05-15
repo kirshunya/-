@@ -2,6 +2,7 @@
 #define CONST256 256
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
 #include <string.h>
 #include "Source.h"
@@ -12,7 +13,7 @@ tree* create(char* w, FILE* file) {
     node->mark = (char*)malloc(strlen(w) * sizeof(char) + 1);
     if (node->mark != NULL)
     {
-        strcpy(node->mark, w);
+        strcpy_s(node->mark, sizeof node->mark, w);
     }
     int i = 0;
     while (w[i] != '\n' && w[i] != '\0') {
