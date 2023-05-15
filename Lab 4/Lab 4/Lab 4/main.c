@@ -23,17 +23,17 @@ int main()
 		printf("Insert first object\n");
 		char object[CONST256];
 		fgets(object, CONST256, stdin);
-		strtok(object, "\n");
+		strtok_r(object, "\n", &object);
 		printf("Insert question for this object: %s \n", object);
 		char question[CONST256];
 		fgets(question, CONST256, stdin);
-		strtok(question, "\n");
+		strtok_r(question, "\n", &question);
 		tree = create(question, read);
 		tree->mark = question;
 		tree->right = create(object, read);
 		printf("Insert second object\n");
 		fgets(object, CONST256, stdin);
-		strtok(object, "\n");
+		strtok_r(object, "\n", &object);
 		tree->left = create(object, read);
 		
 		log_message("Finished creating new tree");
