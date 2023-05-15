@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
+#include <stdlib.h>
 #include "Source.h"
 #include "tree.h"
 int main()
