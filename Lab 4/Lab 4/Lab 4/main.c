@@ -27,7 +27,7 @@ int main()
 		printf("Insert question for this object: %s \n", object);
 		char question[CONST256];
 		fgets(question, CONST256, stdin);
-		strtok_r(question, "\n", &question);
+		strtok(question, "\n");
 		tree = create(question, read);
 		tree->mark = question;
 		tree->right = create(object, read);
